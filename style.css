@@ -1,0 +1,37 @@
+body {
+	font-family: 'IBM Plex Sans', sans-serif;
+}
+h1 {
+	margin-top: 70px;
+	color: black;
+}
+h2 {
+	margin-left: 90px;
+	margin-right: 90px;
+}
+p {
+	font-size: 20px;
+	margin-left: 90px;
+	margin-right: 90px;
+	margin-top: 20px;
+}
+a {
+	color: #20B2AA;
+}
+img {
+	width: 1438px;
+	margin-left: 90px;
+	margin-right: 90px;
+}
+.img1 {
+	width: 1238px;
+	margin-left: 180px;
+	margin-right: 180px;
+}
+pre {
+	margin-left: 90px;
+	margin-right: 90px;
+}
+code {
+	font-family: 'Consolas', sans-serif;
+}
